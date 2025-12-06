@@ -5,6 +5,12 @@
 
 [<img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="90" />](https://www.hackerrank.com/profile/ronnie0524)
 
+### CS50's Introduction to Computer Science — Harvard University  
+🔗 [Certificate](https://certificates.cs50.io/c8ebc297-f124-4414-b7b8-7bee43d224df.pdf?size=letter)
+
+Completed cs50x!
+
+
 
 <!--
 **ronaksarda/ronaksarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
