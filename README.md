@@ -1,91 +1,32 @@
 # Hi, I’m Ronak Sarda 👋
 
-I’m a first-year engineering student building software projects while working toward a long-term goal of becoming a robotics engineer.
+I’m a first-year engineering student focused on building strong software fundamentals, with a long-term interest in systems and robotics.
 
-At the moment, I use software to better understand logic, constraints, and system behavior — skills I plan to carry forward into robotics, automation, and control-focused work.
+Right now, I use software projects to understand how rules, constraints, and edge cases are enforced in real systems. I prioritize correctness, clarity, and reasoning over speed or polish at this stage.
 
----
-
-## About Me
-
-I’m early in my engineering journey and currently learning by building projects from scratch.
-
-Most of my work is software-based because it helps me:
-- Break down real problems into implementable steps
-- Understand how rules and constraints are enforced in code
-- Develop discipline around correctness, edge cases, and failure modes
-
-I treat these as foundational skills rather than an end goal.
-
----
-
-## Current Focus
-
-Right now, I’m focused on:
-- Strengthening programming fundamentals (primarily **C and C++**)
-- Applying data structures and algorithms in practical contexts
-- Building complete projects to understand system behavior
-- Writing clear code and documentation that reflects my reasoning
-
-My repositories reflect experimentation, iteration, and learning rather than finished or production-ready systems.
-
----
+## What I’m Working On
+I’m currently focused on:
+- Learning C and C++ fundamentals
+- Applying data structures and algorithms in practical programs
+- Writing complete, testable code that handles edge cases and failure scenarios
+- Improving code readability and documentation
 
 ## Highlighted Project
+### Time-Locked File System (C)
+A small C program that restricts access to a file until a specified point in time.
 
-### Time-Locked File System
-
-This is one of my early independent projects.
-
-It is a C-based program that restricts access to a file until a specified point in time.
-
-I built this project to:
-- Work with system time and file handling
-- Understand how software can enforce rules reliably
-- See how design decisions affect correctness and usability
-
-This project does not represent my final area of interest.  
-It represents how I approach learning: identifying a constraint, designing logic around it, and implementing it fully.
-
----
-
-## Why Software (For Now)
-
-My long-term interest is in **robotics**, but at this stage I’m intentionally building strong software fundamentals.
-
-I see software as a practical way to develop:
-- Programming discipline
-- Logical thinking
-- Debugging skills
-- An understanding of how systems behave under constraints
-
-These are skills I expect to apply later in more hardware- and robotics-focused work.
-
----
+This project helped me:
+- Work with system time and file I/O
+- Enforce rules reliably in software
+- Handle invalid input and boundary conditions
+- Understand how design decisions affect correctness
 
 ## Background
-
 - CS50x – Introduction to Computer Science (Harvard University)
 - HackerRank Gold Badge – C Language
 
-These support my hands-on learning and project work.
+## About This GitHub
+Most repositories here are learning-oriented and built independently.  
+They reflect experimentation, iteration, and a focus on understanding system behavior rather than being production-ready.
 
----
-
-## How to Read This GitHub
-
-Most repositories here are:
-- Learning-oriented
-- Built independently
-- Focused on understanding rather than optimization or polish
-
-Over time, I expect this profile to shift toward more robotics-related projects as my skills and access to hardware grow.
-
----
-
-## Contact
-
-Open to learning, discussion, and collaboration.
-
-GitHub: https://github.com/ronaksarda  
-Email: rockysarda18@gmail.com
+Over time, I expect this profile to shift toward more systems- and robotics-focused projects as my skills grow.
