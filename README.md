@@ -1,32 +1,50 @@
-# Hi, I’m Ronak Sarda 👋
+# Ronak Sarda
 
-I’m a first-year engineering student focused on building strong software fundamentals, with a long-term interest in systems and robotics.
+Undergraduate engineering student.
 
-Right now, I use software projects to understand how rules, constraints, and edge cases are enforced in real systems. I prioritize correctness, clarity, and reasoning over speed or polish at this stage.
+---
 
-## What I’m Working On
-I’m currently focused on:
-- Learning C and C++ fundamentals
-- Applying data structures and algorithms in practical programs
-- Writing complete, testable code that handles edge cases and failure scenarios
-- Improving code readability and documentation
+## Technical Scope
 
-## Highlighted Project
-### Time-Locked File System (C)
-A small C program that restricts access to a file until a specified point in time.
+**Languages**
+- C  
+- C++
 
-This project helped me:
-- Work with system time and file I/O
-- Enforce rules reliably in software
-- Handle invalid input and boundary conditions
-- Understand how design decisions affect correctness
+**Core Areas**
+- Data structures and algorithms  
+- Command-line and systems-level programming  
+- File I/O, memory, and state handling  
 
-## Background
-- CS50x – Introduction to Computer Science (Harvard University)
-- HackerRank Gold Badge – C Language
+**Tools & Environment**
+- GCC  
+- VS Code  
+- Linux terminal  
+- Git and GitHub  
+---
 
-## About This GitHub
-Most repositories here are learning-oriented and built independently.  
-They reflect experimentation, iteration, and a focus on understanding system behavior rather than being production-ready.
+## Exposure
 
-Over time, I expect this profile to shift toward more systems- and robotics-focused projects as my skills grow.
+- Python (basic scripting, small Flask application)  
+- HTML and CSS   
+- SQL (basic queries)
+
+---
+
+## Achievements
+
+- CS50x – Introduction to Computer Science  
+- HackerRank Gold Badge – C Language  
+
+---
+
+## Notes
+
+Repositories contain coursework, experiments, and practice programs.
+Structure and code quality evolve as study progresses.
+
+---
+
+## Contact
+
+GitHub: https://github.com/ronaksarda  
+Email: rockysarda18@gmail.com
