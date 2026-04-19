@@ -1,50 +1,47 @@
 # Ronak Sarda
-
-Undergraduate engineering student.
+**Undergraduate Information Technology Student**
 
 ---
 
-## Technical Scope
+## Technical Stack
 
 **Languages**
-- C  
-- C++
+* **Primary:** C++, C
+* **Web & Frameworks:** Python (Flask), HTML, CSS
+* **Basics:** JavaScript, OpenCV (Basic image processing)
 
-**Core Areas**
-- Data structures and algorithms  
-- Command-line and systems-level programming  
-- File I/O, memory, and state handling  
+**Core Competencies**
+* **Data Structures & Algorithms:** C++ implementation and optimization
+* **Systems Programming:** Memory management, File I/O, State handling
+* **Cloud & AI:** Firebase (Authentication, Real-time Database), Gemini API integration
+* **Graphics & Prototyping:** SFML (GUI logic and application architecture)
 
 **Tools & Environment**
-- GCC  
-- VS Code  
-- Linux terminal  
-- Git and GitHub  
+* **Version Control:** Git, GitHub
+* **Environment:** Linux Terminal, GCC, VS Code
+
 ---
 
-## Exposure
+## Active Projects
 
-- Python (basic scripting, small Flask application)  
-- HTML and CSS   
-- SQL (basic queries)
+### **InstantDRS**
+* **Stack:** Firebase, Gemini API
+* **Description:** Real-time emergency triage system and disaster response coordination.
+
+### **Pink Verse**
+* **Stack:** C++, SFML
+* **Description:** Cross-platform application focused on UI implementation and Features.
 
 ---
 
 ## Achievements
 
-- CS50x – Introduction to Computer Science  
-- HackerRank Gold Badge – C Language  
-
----
-
-## Notes
-
-Repositories contain coursework, experiments, and practice programs.
-Structure and code quality evolve as study progresses.
+* **CS50x** – Introduction to Computer Science (Harvard/edX)
+* **HackerRank Gold Badge** – C Language
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/ronaksarda  
-Email: rockysarda18@gmail.com
+* **GitHub:** [github.com/ronaksarda](https://github.com/ronaksarda)
+* **Email:** rockysarda18@gmail.com
