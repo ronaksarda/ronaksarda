@@ -17,8 +17,8 @@
 * **Graphics & Prototyping:** SFML (GUI logic and application architecture)
 
 **Tools & Environment**
-* **Version Control:** Git, GitHub
-* **Environment:** Linux Terminal, GCC, VS Code
+* **Version Control:** Git, GitHub 
+* **Environment:** Linux Terminal, GCC, VS Code , Google AntiGravity 
 
 ---
 
@@ -28,7 +28,7 @@
 * **Stack:** Firebase, Gemini API
 * **Description:** Real-time emergency triage system and disaster response coordination.
 
-### **Pink Verse**
+### **Pink Verse** ( currently working )
 * **Stack:** C++, SFML
 * **Description:** Cross-platform application focused on UI implementation and Features.
 
