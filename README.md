@@ -1,47 +1,38 @@
 # Ronak Sarda
-**Undergraduate Information Technology Student**
+
+Student Engineer. Building things close to the metal.
+
+Currently building **GitSpace** — a 3D walkable GitHub universe where every repo is a building on your island in the space . [→ gitland.up.railway.app](https://gitland.up.railway.app)
 
 ---
 
-## Technical Stack
+## What I've shipped
 
-**Languages**
-* **Primary:** C++, C
-* **Web & Frameworks:** Python (Flask), HTML, CSS
-* **Basics:** JavaScript, OpenCV (Basic image processing)
+**[InstantDRS](https://instantdrs.onrender.com/)** — Real-time emergency triage platform  
+Flask · Firebase · Gemini API · Deployed · Built alone · 1st semester
 
-**Core Competencies**
-* **Data Structures & Algorithms:** C++ implementation and optimization
-* **Systems Programming:** Memory management, File I/O, State handling
-* **Cloud & AI:** Firebase (Authentication, Real-time Database), Gemini API integration
-* **Graphics & Prototyping:** SFML (GUI logic and application architecture)
+**[Vault](https://github.com/ronaksarda/Vault)** — File OS in pure C  
+1,200+ lines · Custom data structures · Binary serialisation · Zero memory leaks (Valgrind)
 
-**Tools & Environment**
-* **Version Control:** Git, GitHub 
-* **Environment:** Linux Terminal, GCC, VS Code ,  
+**[Git Space](https://github.com/ronaksarda/gitspace)** — GitHub as a space tour
+C++17 spatial engine · Quadtree · Golden-ratio collision resolution · Node.js · PostgreSQL
+
+**[AutoSort](https://github.com/ronaksarda/autosort)** — Automatic file organiser  
+Python · watchdog · MIME-type classification · C++ scanner DLL
 
 ---
 
-## Active Projects
+## Stack
 
-### **InstantDRS**
-* **Stack:** Firebase, Gemini API
-* **Description:** Real-time emergency triage system and disaster response coordination.
-
-### **Pink Verse** ( currently working )
-* **Stack:** C++, SFML
-* **Description:** Cross-platform application focused on UI implementation and Features.
+C++ · C · Python · Flask · Firebase · Node.js · PostgreSQL · Linux · Git
 
 ---
 
-## Achievements
+## Certifications
 
-* **CS50x** – Introduction to Computer Science (Harvard/edX)
-* **HackerRank Gold Badge** – C Language
+CS50x (Harvard/edX) · HackerRank Gold — C Language
 
 ---
 
-## Contact
-
-* **GitHub:** [github.com/ronaksarda](https://github.com/ronaksarda)
-* **Email:** rockysarda18@gmail.com
+B.E. Information Technology · CBIT Hyderabad · 2025–2029  
+rockysarda18@gmail.com
