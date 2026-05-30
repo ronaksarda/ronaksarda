@@ -18,7 +18,7 @@
 
 **Tools & Environment**
 * **Version Control:** Git, GitHub 
-* **Environment:** Linux Terminal, GCC, VS Code , Google AntiGravity 
+* **Environment:** Linux Terminal, GCC, VS Code ,  
 
 ---
 
