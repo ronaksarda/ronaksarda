@@ -2,7 +2,7 @@
 
 Student Engineer. Building things close to the metal.
 
-Currently building **GitSpace** — a 3D walkable GitHub universe where every repo is a building on your island in the space . [→ gitland.up.railway.app](https://gitland.up.railway.app)
+Currently building **GitSpace** — a 2D GitHub universe where every repo is a building on your island in the space.
 
 ---
 
@@ -14,7 +14,7 @@ Flask · Firebase · Gemini API · Deployed · Built alone · 1st semester
 **[Vault](https://github.com/ronaksarda/Vault)** — File OS in pure C  
 1,200+ lines · Custom data structures · Binary serialisation · Zero memory leaks (Valgrind)
 
-**[Git Space](https://github.com/ronaksarda/gitspace)** — GitHub as a space tour
+**[Git Space]** — GitHub as a space tour ( In development ) 
 C++17 spatial engine · Quadtree · Golden-ratio collision resolution · Node.js · PostgreSQL
 
 **[AutoSort](https://github.com/ronaksarda/autosort)** — Automatic file organiser  
