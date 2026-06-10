@@ -1,38 +1,33 @@
-# Ronak Sarda
+# Hi, I'm Ronak 👋
 
-Student Engineer. Building things close to the metal.
-
-Currently building **GitSpace** — a 2D GitHub universe where every repo is a building on your island in the space.
+First-year IT student who likes building things that shouldn't exist yet.
 
 ---
 
-## What I've shipped
+## What I'm working on
 
-**[InstantDRS](https://instantdrs.onrender.com/)** — Real-time emergency triage platform  
-Flask · Firebase · Gemini API · Deployed · Built alone · 1st semester
+**[GitSpace](https://github.com/ronaksarda/GitSpace)** — a 2D universe where GitHub users are islands and repos are buildings. You fly a spaceship between developers. Built with vanilla JS Canvas, a Node/Express backend, and a C++ engine for placing buildings without overlapping. It's weird and I love it.
 
-**[Vault](https://github.com/ronaksarda/Vault)** — File OS in pure C  
-1,200+ lines · Custom data structures · Binary serialisation · Zero memory leaks (Valgrind)
+**[Vault](https://github.com/ronaksarda/Vault)** — a file system built in C. No abstractions, just raw file I/O.
 
-**[Git Space]** — GitHub as a space tour ( In development ) 
-C++17 spatial engine · Quadtree · Golden-ratio collision resolution · Node.js · PostgreSQL
-
-**[AutoSort](https://github.com/ronaksarda/autosort)** — Automatic file organiser  
-Python · watchdog · MIME-type classification · C++ scanner DLL
+**[InstantDRS](https://instantdrs.onrender.com)** — emergency triage coordination app using Firebase + Gemini API. Live.
 
 ---
 
-## Stack
+## What I know
 
-C++ · C · Python · Flask · Firebase · Node.js · PostgreSQL · Linux · Git
+- **C / C++** — my main languages, mostly DSA and systems stuff
+- **JavaScript** — learned it building GitSpace (Canvas API, Express, OAuth)
+- **Python** — Flask basics, some OpenCV, Gemini API
+- **Tools** — Git, Linux terminal, GCC, Firebase, PostgreSQL
 
 ---
 
 ## Certifications
 
-CS50x (Harvard/edX) · HackerRank Gold — C Language
+- CS50x — Harvard/edX
+- HackerRank Gold Badge — C
 
 ---
 
-B.E. Information Technology · CBIT Hyderabad · 2025–2029  
-rockysarda18@gmail.com
+📬 rockysarda18@gmail.com 
