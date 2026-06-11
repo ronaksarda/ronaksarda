@@ -19,7 +19,7 @@ Building things that should not exist from scratch.
 
 ## 🚀 Projects
 
-### [Vault](https://github.com/ronaksarda/Vault) ⭐ 2
+### [Vault](https://github.com/ronaksarda/Vault)
 > **C-based filesystem file locker**
 
 A command-line file management system written in pure C. Vault organizes files into password-protected directories called "vaults." Lock/unlock operations transform file contents with XOR encryption and rename files in place — the filesystem is always the source of truth.
@@ -30,15 +30,16 @@ A command-line file management system written in pure C. Vault organizes files i
 
 ### [GitSpace](https://gitspace.up.railway.app) 🌐 Live
 > **Your GitHub repositories as a 2D galaxy**
+- **github:** [GitSpace](https://github.com/ronaksarda/GitSpace)
+- GitSpace transforms any GitHub account into an explorable isometric world — every developer is an island, every repository is a building. Fly through the open-source universe, click buildings to inspect repos, and discover other developers. Built and deployed on Railway.
 
-GitSpace transforms any GitHub account into an explorable isometric world — every developer is an island, every repository is a building. Fly through the open-source universe, click buildings to inspect repos, and discover other developers. Built and deployed on Railway.
-
-`Python/Flask` or `JS` `GitHub API` `2D Rendering` `Railway` `Open Source Explorer`
+`JS` `GitHub API` `2D Rendering` `Railway` `Open Source Explorer`
 
 ---
 
-### InstantDRS *(Active)*
+### [InstantDRS](https://instantdrs.onrender.com/) 🌐 Live
 > **Real-time emergency triage & disaster response system**
+- **github:** [InstantDrs](https://github.com/ronaksarda/InstantDRS)
 
 A real-time emergency coordination system integrating Firebase for live data sync and Google's Gemini API for intelligent triage assistance. Designed for disaster response scenarios.
 
