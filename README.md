@@ -66,6 +66,6 @@ A C++/SFML application focused on rich UI implementation and feature depth. Curr
 
 - **GitHub:** [github.com/ronaksarda](https://github.com/ronaksarda)
 - **Email:** rockysarda18@gmail.com
-- **LinkedIn: ** [ronak-sarda05](https://www.linkedin.com/in/ronak-sarda05/)
+- **Linkedin:** [ronak-sarda05](https://www.linkedin.com/in/ronak-sarda05/)
 ---
 
