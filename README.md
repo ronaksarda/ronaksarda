@@ -59,7 +59,7 @@ A C++/SFML application focused on rich UI implementation and feature depth. Curr
 ## 🏆 Achievements
 
 - 🎓 **CS50x** — Introduction to Computer Science (Harvard/edX)
-- 🥇 **HackerRank Gold Badge** — C Language
+- 🥇 **HackerRank Gold Badge** — C Language , C++ 
 
 ---
 
