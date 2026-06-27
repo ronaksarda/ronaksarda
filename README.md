@@ -1,72 +1,97 @@
 # Ronak Sarda
 
-**Undergraduate Information Technology Student**  
-Building things that should not exist from scratch.
-
----
-
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | C, C++, Python (Flask), JavaScript, HTML/CSS |
-| **Libraries** | SFML, OpenCV |
-| **Cloud & AI** | Firebase (Auth + Realtime DB), Gemini API |
-| **Tools** | Git, GCC, VS Code, Linux Terminal |
-| **Fundamentals** | Data Structures & Algorithms, Systems Programming, File I/O |
+**IT Undergraduate @ CBIT · AI Agents · LLM Integration · C++ **
 
 ---
 
 ## 🚀 Projects
 
-### [Vault](https://github.com/ronaksarda/Vault)
-> **C-based filesystem file locker**
+### [GitSpace](https://gitspace.up.railway.app/) — GitHub Developer Visualization Engine `Live`
+> Your GitHub universe as an explorable 2D galaxy. Every developer is an island, every repository is a building.
 
-A command-line file management system written in pure C. Vault organizes files into password-protected directories called "vaults." Lock/unlock operations transform file contents with XOR encryption and rename files in place — the filesystem is always the source of truth.
+Built a full-stack spatial visualization engine that renders any GitHub account as an interactive 2D world using HTML5 Canvas. Wrote a **C++17 layout module** with lazy chunking and caching for performance — load-tested at **8,000 simulated users / 80,000+ repositories** with zero degradation.
 
-`C` `Systems Programming` `CLI` `XOR Encryption` `File I/O`
-
----
-
-### [GitSpace](https://gitspace.up.railway.app) 🌐 Live
-> **Your GitHub repositories as a 2D galaxy**
-- **github:** [GitSpace](https://github.com/ronaksarda/GitSpace)
-- GitSpace transforms any GitHub account into an explorable isometric world — every developer is an island, every repository is a building. Fly through the open-source universe, click buildings to inspect repos, and discover other developers. Built and deployed on Railway.
-
-`JS` `GitHub API` `2D Rendering` `Railway` `Open Source Explorer`
+`JavaScript` `Node.js / Express` `PostgreSQL` `C++17` `GitHub API` `Railway`
 
 ---
 
-### [InstantDRS](https://instantdrs.onrender.com/) 🌐 Live
-> **Real-time emergency triage & disaster response system**
-- **github:** [InstantDrs](https://github.com/ronaksarda/InstantDRS)
+### [SoulFlow](https://github.com/ronaksarda/SoulFlow) — Real-Time Computer Vision Pipeline
+> Gesture recognition + facial emotion classification running at 45–60 FPS.
 
-A real-time emergency coordination system integrating Firebase for live data sync and Google's Gemini API for intelligent triage assistance. Designed for disaster response scenarios.
+Built a real-time CV pipeline using MediaPipe for hand tracking and a quantized ONNX model for facial emotion classification, with OneEuro jitter filtering. Decoupled inference and rendering into separate processes — raised stable frame rate from **~25–30 FPS → 45–60 FPS**.
 
-`Firebase` `Gemini API` `Real-time Database` `Emergency Tech`
+`Python` `OpenCV` `MediaPipe` `ONNX Runtime`
+
+---
+
+### [InstantDRS](https://instantdrs.onrender.com/) — AI-Powered Disaster Response Tool `Live`
+> Real-time emergency coordination with AI-powered incident triage.
+
+Flask web app with Firebase Authentication and Realtime Database for live multi-user incident sync. Integrated Gemini API to classify and prioritize incoming incident reports. Built for **Google Solution Challenge 2026** (Hack2Skill).
+
+`Python / Flask` `Firebase` `Google Gemini API` `Real-time Database`
+
+---
+
+### [Vault](https://github.com/ronaksarda/Vault) — Filesystem-Based File Locker
+> CLI tool that locks and unlocks groups of files using XOR encryption.
+
+Pure C implementation with vault creation, merging, and corruption-prevention state checks — the filesystem itself is the source of truth.
+
+`C` `Systems Programming` `File I/O`
 
 ---
 
 ### Pink Verse *(In Progress)*
-> **Cross-platform desktop application**
+Cross-platform desktop application built with C++ and SFML. Rich UI implementation, active development.
 
-A C++/SFML application focused on rich UI implementation and feature depth. Currently under active development.
-
-`C++` `SFML` `Cross-platform` `GUI`
+`C++` `SFML` `Cross-platform`
 
 ---
 
-## 🏆 Achievements
+## 🛠 Technical Skills
 
-- 🎓 **CS50x** — Introduction to Computer Science (Harvard/edX)
-- 🥇 **HackerRank Gold Badge** — C Language , C++ 
+**Languages:** C++, C, Python, JavaScript, HTML, CSS
+
+**AI & Agents:** Azure OpenAI · Azure AI Document Intelligence · Semantic Search · MCP · LLM Tool Calling · Hugging Face
+
+**Frameworks:** Flask · Express.js · REST APIs · OpenCV · MediaPipe · ONNX Runtime
+
+**Data & APIs:** Firebase · PostgreSQL · SQL · Google Gemini API · GitHub OAuth
+
+**Tools:** Git · GitHub · Linux · GCC · VS Code · Azure Portal
+
+---
+
+## 🏆 Competitions & Achievements
+
+| | |
+|---|---|
+| 🥇 | **HackerRank Orchestrate — June 2026** · Ranked **#329 / 1,773** globally · Built and deployed an AI agent · Top 18.5% |
+| 🌍 | **Google Solution Challenge 2026** (Hack2Skill) · Built InstantDRS, an AI-powered disaster response prototype |
+
+---
+
+## 📜 Certifications
+
+- 🎓 **CS50x** — Introduction to Computer Science · Harvard University (via edX)
+- 🥇 **HackerRank Gold Badge** — C Language & C++ · [Profile](https://www.hackerrank.com/profile/ronnie0524)
+- 📊 **Kaggle: Python** — Completed June 2026
+- 🤖 **Hugging Face: AI Agents** *(In Progress)*
+
+---
+
+## 💻 Coding Activity
+
+- **LeetCode:** 162+ problems solved · [Profile](https://leetcode.com/u/ronnie0524/)
+- **HackerRank:** Gold Badge in C and C++
 
 ---
 
 ## 📬 Contact
 
-- **GitHub:** [github.com/ronaksarda](https://github.com/ronaksarda)
-- **Email:** rockysarda18@gmail.com
-- **Linkedin:** [ronak-sarda05](https://www.linkedin.com/in/ronak-sarda05/)
+[LinkedIn](https://www.linkedin.com/in/ronak-sarda05/) · [GitHub](https://github.com/ronaksarda) · [Email](mailto:rockysarda18@gmail.com)
+
 ---
 
+*1st year IT @ CBIT, Hyderabad · Building things that actually ship.*
