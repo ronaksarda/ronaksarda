@@ -53,7 +53,7 @@ Cross-platform desktop application built with C++ and SFML. Rich UI implementati
 
 **Languages:** C++, C, Python, JavaScript, HTML, CSS
 
-**AI & Agents:** Azure OpenAI · Azure AI Document Intelligence · Semantic Search · MCP · LLM Tool Calling · Hugging Face
+**AI & Agents:** Azure OpenAI · Semantic Search · MCP · LLM tool calling
 
 **Frameworks:** Flask · Express.js · REST APIs · OpenCV · MediaPipe · ONNX Runtime
 
@@ -77,7 +77,6 @@ Cross-platform desktop application built with C++ and SFML. Rich UI implementati
 - 🎓 **CS50x** — Introduction to Computer Science · Harvard University (via edX)
 - 🥇 **HackerRank Gold Badge** — C Language & C++ · [Profile](https://www.hackerrank.com/profile/ronnie0524)
 - 📊 **Kaggle: Python** — Completed June 2026
-- 🤖 **Hugging Face: AI Agents** *(In Progress)*
 
 ---
 
