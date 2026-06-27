@@ -1,6 +1,6 @@
 # Ronak Sarda
 
-**IT Undergraduate @ CBIT · AI Agents · LLM Integration · C++ **
+**IT Undergraduate @ CBIT · AI Agents · LLM Integration · C++**
 
 ---
 
