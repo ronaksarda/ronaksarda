@@ -82,7 +82,7 @@ Cross-platform desktop application built with C++ and SFML. Rich UI implementati
 
 ## 💻 Coding Activity
 
-- **LeetCode:** 162+ problems solved · [Profile](https://leetcode.com/u/ronnie0524/)
+- **LeetCode:**180+ problems solved · [Profile](https://leetcode.com/u/ronnie0524/)
 - **HackerRank:** Gold Badge in C and C++
 
 ---
