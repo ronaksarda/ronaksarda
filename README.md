@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-### [GitSpace](https://gitspace.up.railway.app/) — GitHub Developer Visualization Engine `Live`
+### [GitSpace](https://gitspace.me) — GitHub Developer Visualization Engine `Live`
 > Your GitHub universe as an explorable 2D galaxy. Every developer is an island, every repository is a building.
 
 Built a full-stack spatial visualization engine that renders any GitHub account as an interactive 2D world using HTML5 Canvas. Wrote a **C++17 layout module** with lazy chunking and caching for performance — load-tested at **8,000 simulated users / 80,000+ repositories** with zero degradation.
