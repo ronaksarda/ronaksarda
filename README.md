@@ -22,9 +22,9 @@ Built solo end-to-end: an AI-driven ranking pipeline optimized for algorithmic c
 ### [GitSpace](https://gitspace.me) — GitHub Developer Visualization Engine `Live`
 > Your GitHub universe as an explorable 2D galaxy.
 
-Full-stack spatial visualization engine rendering any GitHub account as an interactive 2D world via HTML5 Canvas. Wrote a C++17 layout module with lazy chunking and caching — load-tested at 8,000 simulated users / 80,000+ repos with zero degradation. Live in production, 47+ active users.
+Full-stack spatial visualization engine rendering any GitHub account as an interactive 2D world via HTML5 Canvas. Wrote a C++17 layout module with lazy chunking and caching — load-tested at 8,000 simulated users / 80,000+ repos with zero degradation. Live in production, 30+ active users.
 
-`JavaScript` `Node.js / Express` `PostgreSQL` `C++17` `GitHub API` `Railway`
+`JavaScript` `Node.js / Express` `PostgreSQL` `C++17` `GitHub API` `Render`
 
 ---
 
