@@ -2,7 +2,7 @@
 
 **IT Undergraduate @ CBIT, Hyderabad · Applied AI Engineering**
 
-I build AI systems under real constraints — compute budgets, latency limits, production traffic — not just notebooks. Also ship full-stack apps and low-level C when the problem calls for it.
+I build AI systems under real constraints — compute budgets, latency limits, production traffic , not just notebooks. Also ship full-stack apps and low-level C.
 
 📍 Hyderabad · [LinkedIn](https://www.linkedin.com/in/ronak-sarda05/) · [Email](mailto:rockysarda18@gmail.com)
 
