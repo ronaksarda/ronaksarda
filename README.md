@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/ronak-sarda05/"><img src="https://img.shields.io/badge/LinkedIn-ronak--sarda05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rockysarda18@gmail.com"><img src="https://img.shields.io/badge/email-rockysarda18-ff6ad5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/u/ronnie0524/"><img src="https://img.shields.io/badge/LeetCode-334%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<img src="https://img.shields.io/badge/Discord-samronnie__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: samronnie_05" />
 <a href="https://www.hackerrank.com/profile/ronnie0524"><img src="https://img.shields.io/badge/HackerRank-Gold_C%2FC%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 
 </div>
