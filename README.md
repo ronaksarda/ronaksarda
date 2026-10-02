@@ -22,7 +22,7 @@
 
 - 🧑‍🚀 **Founding AI Engineering Intern @ FschoolAI**: revamping course generation and the whiteboard, building with the **Claude API, RAG and MCP tools** to get precise, grounded output.
 - 🎓 **B.E. Information Technology @ CBIT Hyderabad**, class of 2029 · CGPA 8.68 (1st year)
-- 🛠️ Technical member of the **HICON** and **AWS** clubs at CBIT · Google Cloud Facilitator 2026
+- 🛠️ Technical member of the **HICON** and **AWS** clubs at CBIT · member of **GDG Hyderabad** · Google Cloud Facilitator 2026
 - 🔭 Looking for **internships from January 2027**
 
 ---
@@ -52,6 +52,8 @@
 | 🏅 | **CBIT COSC HackWeek**: top 7 of 2,500+ |
 | 🎤 | **AB Talks ViCoDathon 2026**: top 10 |
 | 🌐 | **ECSoC '26**: top 500 of 13,000+ |
+| 📈 | **Citadel Securities**: reached the 2nd interview round (DSA) as a first-year |
+| 🎨 | **Adobe University Hackathon**: qualified for round 2 |
 | 🔐 | **COOL Reverse Hackathon**: qualified for round 2 |
 | 🌍 | **Google Solution Challenge 2026** · **Build with AI Bootcamp, Hyderabad** |
 | 🧱 | **7Blocks**: open-source contribution to Kepler |
