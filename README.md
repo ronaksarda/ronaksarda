@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05060f,40:9b7bff,100:ff6ad5&text=Ronak%20Sarda&fontColor=eef0ff&fontSize=64&fontAlignY=38&desc=building%20cool%20things%20from%20scratch&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ronak Sarda: building cool things from scratch" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05060f,40:9b7bff,100:ff6ad5&text=Ronak%20Sarda&fontColor=eef0ff&fontSize=64&fontAlignY=38&desc=building%20cool%20things%20from%20scratch&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ronak Sarda" />
 
 <a href="https://ronaksarda.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=6EF3FF&center=true&vCenter=true&width=620&lines=Founding+AI+Engineering+Intern+%40+FschoolAI;Claude+API+%C2%B7+RAG+%C2%B7+MCP+tools;C%2B%2B+layout+engines+%26+offline+ML;IT+%40+CBIT+Hyderabad+%C2%B7+class+of+2029;open+to+internships+from+Jan+2027" alt="Typing intro" />
@@ -23,7 +23,7 @@
 
 - 🧑‍🚀 **Founding AI Engineering Intern @ FschoolAI**: revamping course generation and the whiteboard, building with the **Claude API, RAG and MCP tools** to get precise, grounded output.
 - 🎓 **B.E. Information Technology @ CBIT Hyderabad**, class of 2029 · CGPA 8.68 (1st year)
-- 🛠️ Technical member of the **HICON** and **AWS** clubs at CBIT · member of **GDG Hyderabad** · Google Cloud Facilitator 2026
+- 🛠️ Technical member of the **HICON** · Google Cloud Facilitator 2026
 - 🔭 Looking for **internships from January 2027**
 
 ---
@@ -37,7 +37,6 @@
 | 💸 | [**GrantAnchor**](https://github.com/ronaksarda/microsoft-hindsight) | Checks every grant expense against the rules and learns from past spending with Hindsight memory. | Python · LLM agents · memory |
 | 🏷️ | [**LabelSure AI**](https://github.com/ronaksarda/SIH-Project) | Audits product labels against Indian Legal Metrology rules. Vision LLM + OCR cross-checks stop hallucinations. | FastAPI · Groq Vision · Tesseract |
 | 🔊 | [**Screen Reader Agent**](https://github.com/ronaksarda/side-project) `wip` | Highlight any text, press F8, hear it. F9 makes a local LLM explain it first. | Python · Ollama · neural TTS |
-| 📄 | [**doc_ask**](https://github.com/ronaksarda/doc-ask) | Local RAG over PDF, DOCX and TXT. Nothing leaves your laptop. | Python · RAG · Ollama |
 | ✋ | [**SoulFlow**](https://github.com/ronaksarda/SoulFlow) | Draw neon in the air while the UI reacts to your emotion, at 45-60 FPS. | OpenCV · MediaPipe · ONNX |
 | 🔐 | [**Vault**](https://github.com/ronaksarda/Vault) | Lock whole folders with one password. Pure C, zero dependencies. | C · file I/O |
 
@@ -52,10 +51,9 @@
 | 🥇 | **HackerRank Orchestrate (June 2026)**: #329 of 1,773 globally for an AI agent |
 | 🏅 | **CBIT COSC HackWeek**: top 7 of 2,500+ |
 | 🎤 | **AB Talks ViCoDathon 2026**: top 10 |
-| 🌐 | **ECSoC '26**: top 500 of 13,000+ |
+| 🌐 | **ECSoC '26**: top 150 of 13,000+ |
 | 📈 | **Citadel Securities**: reached the 2nd interview round (DSA) as a first-year |
 | 🎨 | **Adobe University Hackathon**: qualified for round 2 |
-| 🔐 | **COOL Reverse Hackathon**: qualified for round 2 |
 | 🌍 | **Google Solution Challenge 2026** · **Build with AI Bootcamp, Hyderabad** |
 | 🧱 | **7Blocks**: open-source contribution to Kepler |
 | 📜 | Microsoft Applied Skills (Agents in Foundry) · Hugging Face Agents · Gemini Certified · Claude Academy (AI Fluency, MCP) · CS50x · Kaggle Python · 34 Google Cloud badges |
@@ -68,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,nodejs,express,fastapi,flask,postgres,supabase,firebase,opencv,git,linux,docker,vscode&perline=9" alt="Skills" />
 </p>
 
-`RAG` `Claude API` `MCP` `Sentence-Transformers` `Hugging Face` `Llama 3.1` `Groq / Qwen Vision` `Ollama` `MediaPipe` `ONNX Runtime` `Tesseract OCR`
+`RAG` `Sentence-Transformers` `Hugging Face` `Llama 3.1` `Groq / Qwen Vision` `Ollama` `MediaPipe` `ONNX Runtime` `Tesseract OCR`
 
 ---
 
@@ -76,7 +74,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ronaksarda&show_icons=true&hide_border=true&bg_color=05060f&title_color=6ef3ff&icon_color=ff6ad5&text_color=eef0ff&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksarda&layout=compact&hide_border=true&bg_color=05060f&title_color=6ef3ff&text_color=eef0ff&langs_count=6" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=ronaksarda&hide_border=true&background=05060f&ring=9b7bff&fire=ff6ad5&currStreakLabel=6ef3ff&sideLabels=eef0ff&currStreakNum=eef0ff&sideNums=eef0ff&dates=9aa0c3" alt="GitHub streak" />
