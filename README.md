@@ -34,7 +34,7 @@ Founding AI Engineering Intern at FschoolAI. Second-year IT student at CBIT Hyde
 - HackerRank Orchestrate, June 2026: ranked 329 of 1,773 for an AI agent
 - CBIT COSC HackWeek: top 7 of 800+ participants
 - AB Talks ViCoDathon 2026: top 10
-- ECSoC '26: top 500 of 13,000+
+- ECSoC '26: ranked 138 of 13,000+
 - Citadel Securities: reached the second interview round (DSA) as a first-year
 - Adobe University Hackathon and COOL Reverse Hackathon: qualified for round 2
 - Google Solution Challenge 2026 and Build with AI Bootcamp, Hyderabad
