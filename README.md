@@ -1,98 +1,73 @@
-<div align="center">
+# Ronak Sarda
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05060f,40:9b7bff,100:ff6ad5&text=Ronak%20Sarda&fontColor=eef0ff&fontSize=64&fontAlignY=38&desc=building%20cool%20things%20from%20scratch&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ronak Sarda" />
+Founding AI Engineering Intern at FschoolAI. Second-year IT student at CBIT Hyderabad (class of 2029). I build AI agents, C++ systems and full-stack apps, usually under a hard limit: 100,000 candidates ranked on one CPU, 60 FPS without WebGL, a vision model that is not allowed to make things up.
 
-<a href="https://ronaksarda.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=6EF3FF&center=true&vCenter=true&width=620&lines=Founding+AI+Engineering+Intern+%40+FschoolAI;Claude+API+%C2%B7+RAG+%C2%B7+MCP+tools;C%2B%2B+layout+engines+%26+offline+ML;IT+%40+CBIT+Hyderabad+%C2%B7+class+of+2029;open+to+internships+from+Jan+2027" alt="Typing intro" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronaksarda.github.io-111827?style=flat-square)](https://ronaksarda.github.io)
+[![GitSpace](https://img.shields.io/badge/GitSpace-gitspace.me-111827?style=flat-square)](https://gitspace.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronak--sarda05-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-sarda05/)
+[![Email](https://img.shields.io/badge/Email-rockysarda18@gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:rockysarda18@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ronnie0524-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ronnie0524/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111827?style=flat-square)](https://ronaksarda.github.io/assets/resume/Ronak_Sarda_Resume.pdf)
 
-<br/>
+## Now
 
-<a href="https://ronaksarda.github.io"><img src="https://img.shields.io/badge/portfolio-ronaksarda.github.io-9b7bff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ronak-sarda05/"><img src="https://img.shields.io/badge/LinkedIn-ronak--sarda05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rockysarda18@gmail.com"><img src="https://img.shields.io/badge/email-rockysarda18-ff6ad5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/u/ronnie0524/"><img src="https://img.shields.io/badge/LeetCode-334%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<img src="https://img.shields.io/badge/Discord-samronnie__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: samronnie_05" />
-<a href="https://www.hackerrank.com/profile/ronnie0524"><img src="https://img.shields.io/badge/HackerRank-Gold_C%2FC%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+- **Founding AI Engineering Intern at [FschoolAI](https://fschoolai.com).** I lead MVP delivery for a team of 8 and build in TypeScript and React: the tutor's reply path (streaming, model routing, provider failover), live study rooms with a whiteboard the AI draws on, a Course Maker that turns a Canvas syllabus into a course, and an onboarding interview that feeds student memory.
+- **B.E. Information Technology at CBIT Hyderabad.** CGPA 8.68 in first year.
+- Technical member of HICON and the AWS Club at CBIT. Google Cloud Facilitator 2026.
+- Looking for internships from January 2027.
 
-</div>
+## Projects
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [GitSpace](https://gitspace.me) | Draws GitHub users and repositories as a map you can fly through. C++17 layout engine with a JavaScript fallback that holds 60 FPS without WebGL. Tested to 80,000+ repositories. | JavaScript, Node, PostgreSQL, C++17 |
+| [Candidate Ranker](https://github.com/ronaksarda/candidate-ranker) | Ranks 100,000 synthetic applicants against a job description in under five minutes on one CPU, offline. Keyword filter, MiniLM semantic match, weighted score. | Python, Sentence-Transformers |
+| [LabelSure AI](https://github.com/ronaksarda/SIH-Project) | Audits product labels against India's Legal Metrology rules. A vision LLM and OCR run in parallel and must agree before a field is accepted. | FastAPI, Groq Vision, Tesseract |
+| [GrantAnchor](https://github.com/ronaksarda/microsoft-hindsight) | Checks each grant expense against the rules before money goes out, and learns from past spending. The rules decide; memory only advises. | Python, LLM agents |
+| [Screen Reader Agent](https://github.com/ronaksarda/side-project) | Highlight any text, press F8 to hear it, F9 for a local LLM to explain it first. In progress. | Python, Ollama, neural TTS |
+| [doc_ask](https://github.com/ronaksarda/doc-ask) | Local question answering over PDF, DOCX and TXT. Nothing leaves the machine. | Python, RAG, Ollama |
+| [SoulFlow](https://github.com/ronaksarda/SoulFlow) | Draw in the air with your hand while the interface reacts to your mood, at 45 to 60 FPS. | OpenCV, MediaPipe, ONNX Runtime |
+| [Vault](https://github.com/ronaksarda/Vault) | Locks whole folders behind one password. Pure C, no dependencies. | C |
 
-### 🛰️ right now
+## Recognition
 
-- 🧑‍🚀 **Founding AI Engineering Intern @ FschoolAI**: revamping course generation and the whiteboard, building with the **Claude API, RAG and MCP tools** to get precise, grounded output.
-- 🎓 **B.E. Information Technology @ CBIT Hyderabad**, class of 2029 · CGPA 8.68 (1st year)
-- 🛠️ Technical member of the **HICON** · Google Cloud Facilitator 2026
-- 🔭 Looking for **internships from January 2027**
+- HackerRank Orchestrate, June 2026: ranked 329 of 1,773 for an AI agent
+- CBIT COSC HackWeek: top 7 of 800+ participants
+- AB Talks ViCoDathon 2026: top 10
+- ECSoC '26: top 500 of 13,000+
+- Citadel Securities: reached the second interview round (DSA) as a first-year
+- Adobe University Hackathon and COOL Reverse Hackathon: qualified for round 2
+- Google Solution Challenge 2026 and Build with AI Bootcamp, Hyderabad
+- 7Blocks: contribution to the open-source Kepler platform
 
----
+<details>
+<summary>Certifications</summary>
 
-### 🚀 things I built
+- Microsoft Applied Skills: Get Started Developing Agents in Microsoft Foundry
+- Claude Academy: AI Fluency and MCP
+- Google Gemini Certified Student
+- Hugging Face: Fundamentals of Agents
+- CS50x: Introduction to Computer Science (Harvard, via edX)
+- Kaggle: Python
+- 34 Google Cloud skill badges, including Agent Development Kit and Multi-Agent Architectures
+- HackerRank Gold Badges: C and C++
+- CBIT COSC: Git and GitHub workshop, Certificate of Merit
 
-| | project | what it does | stack |
-|:-:|---|---|---|
-| 🌌 | [**GitSpace**](https://gitspace.me) `live` | Your GitHub as a galaxy you can fly through. C++17 layout engine, 60 FPS without WebGL, tested to 80,000+ repos. | JS · Node · PostgreSQL · C++17 |
-| 🎯 | [**Candidate Ranker**](https://github.com/ronaksarda/candidate-ranker) | Ranks 100,000 candidates in under 5 minutes on one CPU. Offline, no LLM calls, honeypot detection. | Python · Sentence-Transformers · MiniLM |
-| 💸 | [**GrantAnchor**](https://github.com/ronaksarda/microsoft-hindsight) | Checks every grant expense against the rules and learns from past spending with Hindsight memory. | Python · LLM agents · memory |
-| 🏷️ | [**LabelSure AI**](https://github.com/ronaksarda/SIH-Project) | Audits product labels against Indian Legal Metrology rules. Vision LLM + OCR cross-checks stop hallucinations. | FastAPI · Groq Vision · Tesseract |
-| 🔊 | [**Screen Reader Agent**](https://github.com/ronaksarda/side-project) `wip` | Highlight any text, press F8, hear it. F9 makes a local LLM explain it first. | Python · Ollama · neural TTS |
-| ✋ | [**SoulFlow**](https://github.com/ronaksarda/SoulFlow) | Draw neon in the air while the UI reacts to your emotion, at 45-60 FPS. | OpenCV · MediaPipe · ONNX |
-| 🔐 | [**Vault**](https://github.com/ronaksarda/Vault) | Lock whole folders with one password. Pure C, zero dependencies. | C · file I/O |
+</details>
 
-<sub>in the hangar: **Pink Verse** (C++ / SFML desktop app) · **Low-Key Connect**</sub>
+## Stack
 
----
+![Skills](https://skillicons.dev/icons?i=ts,react,js,cpp,c,py,nodejs,express,fastapi,postgres,supabase,firebase,opencv,git,linux,docker&perline=8)
 
-### 🏆 wins
+Also: RAG, Claude API, MCP, Sentence-Transformers, Hugging Face, Ollama, Tesseract OCR, MediaPipe, ONNX Runtime.
 
-| | |
-|:-:|---|
-| 🥇 | **HackerRank Orchestrate (June 2026)**: #329 of 1,773 globally for an AI agent |
-| 🏅 | **CBIT COSC HackWeek**: top 7 of 2,500+ |
-| 🎤 | **AB Talks ViCoDathon 2026**: top 10 |
-| 🌐 | **ECSoC '26**: top 150 of 13,000+ |
-| 📈 | **Citadel Securities**: reached the 2nd interview round (DSA) as a first-year |
-| 🎨 | **Adobe University Hackathon**: qualified for round 2 |
-| 🌍 | **Google Solution Challenge 2026** · **Build with AI Bootcamp, Hyderabad** |
-| 🧱 | **7Blocks**: open-source contribution to Kepler |
-| 📜 | Microsoft Applied Skills (Agents in Foundry) · Hugging Face Agents · Gemini Certified · Claude Academy (AI Fluency, MCP) · CS50x · Kaggle Python · 34 Google Cloud badges |
+## Activity
 
----
-
-### 🧰 arsenal
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,nodejs,express,fastapi,flask,postgres,supabase,firebase,opencv,git,linux,docker,vscode&perline=9" alt="Skills" />
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksarda&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
-
-`RAG` `Sentence-Transformers` `Hugging Face` `Llama 3.1` `Groq / Qwen Vision` `Ollama` `MediaPipe` `ONNX Runtime` `Tesseract OCR`
-
----
-
-### 📡 telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksarda&layout=compact&hide_border=true&bg_color=05060f&title_color=6ef3ff&text_color=eef0ff&langs_count=6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=ronaksarda&hide_border=true&background=05060f&ring=9b7bff&fire=ff6ad5&currStreakLabel=6ef3ff&sideLabels=eef0ff&currStreakNum=eef0ff&sideNums=eef0ff&dates=9aa0c3" alt="GitHub streak" />
-
-<img src="https://leetcard.jacoblin.cool/ronnie0524?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaksarda/ronaksarda/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ronaksarda/ronaksarda/output/snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/ronaksarda/ronaksarda/output/snake.svg" alt="Contribution graph" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-**fly through my repos at [gitspace.me](https://gitspace.me) · see everything at [ronaksarda.github.io](https://ronaksarda.github.io)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6ad5,60:9b7bff,100:05060f" width="100%" alt="" />
-
-</div>
