@@ -69,7 +69,7 @@ Also: RAG, Claude API, MCP, Sentence-Transformers, Hugging Face, Ollama, Tessera
 ## Activity
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaksarda&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaksarda&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 <picture>
