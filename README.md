@@ -1,6 +1,6 @@
 # Ronak Sarda
 
-Founding AI Engineering Intern at FschoolAI. Second-year IT student at CBIT Hyderabad (class of 2029). I build AI agents, C++ systems and full-stack apps, usually under a hard limit: 100,000 candidates ranked on one CPU, 60 FPS without WebGL, a vision model that is not allowed to make things up.
+I'm a second-year IT student at CBIT Hyderabad (class of 2029) and the founding AI engineering intern at FschoolAI. I mostly build AI agents, and I write C++ when something has to be fast. I like projects with a hard limit, like ranking 100,000 candidates on one CPU or making a model show its evidence instead of guessing.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ronaksarda.github.io-111827?style=flat-square)](https://ronaksarda.github.io)
 [![GitSpace](https://img.shields.io/badge/GitSpace-gitspace.me-111827?style=flat-square)](https://gitspace.me)
@@ -11,23 +11,28 @@ Founding AI Engineering Intern at FschoolAI. Second-year IT student at CBIT Hyde
 
 ## Now
 
-- **Founding AI Engineering Intern at [FschoolAI](https://fschoolai.com).** I lead MVP delivery for a team of 8 and build in TypeScript and React: the tutor's reply path (streaming, model routing, provider failover), live study rooms with a whiteboard the AI draws on, a Course Maker that turns a Canvas syllabus into a course, and an onboarding interview that feeds student memory.
+- **Founding AI Engineering Intern at [FschoolAI](https://fschoolai.com).** I set priorities for a team of 8 and build in TypeScript and React. So far that's the tutor's reply path (streaming, picking a model, switching providers when one goes down), study rooms with a whiteboard the AI draws on, a Course Maker that turns a Canvas syllabus into a course, and an onboarding interview that gets saved to the student's memory.
 - **B.E. Information Technology at CBIT Hyderabad.** CGPA 8.68 in first year.
-- Technical member of HICON and the AWS Club at CBIT. Google Cloud Facilitator 2026.
-- Looking for internships from January 2027.
+- Taking Probability for AI from Stanford.
+- Technical member of HICON at CBIT, member of GDG Hyderabad, Google Cloud Facilitator 2026.
+- Looking for an internship from January 2027.
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [GitSpace](https://gitspace.me) | Draws GitHub users and repositories as a map you can fly through. C++17 layout engine with a JavaScript fallback that holds 60 FPS without WebGL. Tested to 80,000+ repositories. | JavaScript, Node, PostgreSQL, C++17 |
-| [Candidate Ranker](https://github.com/ronaksarda/candidate-ranker) | Ranks 100,000 synthetic applicants against a job description in under five minutes on one CPU, offline. Keyword filter, MiniLM semantic match, weighted score. | Python, Sentence-Transformers |
-| [LabelSure AI](https://github.com/ronaksarda/SIH-Project) | Audits product labels against India's Legal Metrology rules. A vision LLM and OCR run in parallel and must agree before a field is accepted. | FastAPI, Groq Vision, Tesseract |
-| [GrantAnchor](https://github.com/ronaksarda/microsoft-hindsight) | Checks each grant expense against the rules before money goes out, and learns from past spending. The rules decide; memory only advises. | Python, LLM agents |
-| [Screen Reader Agent](https://github.com/ronaksarda/side-project) | Highlight any text, press F8 to hear it, F9 for a local LLM to explain it first. In progress. | Python, Ollama, neural TTS |
-| [doc_ask](https://github.com/ronaksarda/doc-ask) | Local question answering over PDF, DOCX and TXT. Nothing leaves the machine. | Python, RAG, Ollama |
-| [SoulFlow](https://github.com/ronaksarda/SoulFlow) | Draw in the air with your hand while the interface reacts to your mood, at 45 to 60 FPS. | OpenCV, MediaPipe, ONNX Runtime |
-| [Vault](https://github.com/ronaksarda/Vault) | Locks whole folders behind one password. Pure C, no dependencies. | C |
+| [Mr. Couch](https://github.com/ronaksarda/couch) | A voice and text assistant for Windows with the personality of a lazy roommate. It opens files, plays YouTube, reads your screen and sets reminders. A checklist in code decides what it may do: reading is automatic, changes need a tap on Yes, and deleting or paying isn't possible. | TypeScript, Electron, Gemma 4 |
+| [GitSpace](https://gitspace.me) | Draws GitHub users as islands and their repos as buildings, and you fly a ship around them. C++17 layout engine with a JavaScript fallback that holds 60 FPS without WebGL. Tested to 80,000+ repos, live with 30+ users. | JavaScript, Node, PostgreSQL, C++17 |
+| [Ghost Text](https://github.com/ronaksarda/ghost-text) | Web pages can hide text that only your AI assistant reads, like white-on-white or 1px fonts. Ghost Text finds it and removes it before the assistant sees the page. Browser extension, page checker and API. | Python, browser extension |
+| [Ideator](https://github.com/ronaksarda/ideator) | You pitch a startup idea. It searches for real competitors, puts them in a graph, and an agent walks the graph to find the gap, saving its decision with the evidence. | Python, FalkorDB, MCP |
+| [Candidate Ranker](https://github.com/ronaksarda/candidate-ranker) | Ranks 100,000 synthetic applicants against a job description in under five minutes on one CPU, offline. Keyword filter, then a local MiniLM match, then a weighted score. | Python, Sentence-Transformers |
+| [Pramaan](https://github.com/ronaksarda/pramaan-sih26261) | Smart India Hackathon 2026 prototype for AICTE approvals. It rates how much of each college's claim is actually proven, and flags things like the same faculty on two colleges' lists. Data is synthetic. | Python, FastAPI |
+| [LabelSure AI](https://github.com/ronaksarda/SIH-Project) | Checks product labels against India's Legal Metrology rules. A vision model and OCR read the label separately and have to agree before a field is accepted. | FastAPI, Groq Vision, Tesseract |
+| [GrantAnchor](https://github.com/ronaksarda/microsoft-hindsight) | Checks each grant expense against the rules before the money goes out, and remembers past spending. The rules decide; memory only advises. | Python, LLM agents |
+| [SoulFlow](https://github.com/ronaksarda/SoulFlow) | Draw in the air with your hand while the interface changes color with your mood, at 45 to 60 FPS. | OpenCV, MediaPipe, ONNX Runtime |
+| [Screen Reader Agent](https://github.com/ronaksarda/side-project) | Highlight any text and press F8 to hear it, or F9 to have a local model explain it first. Still in progress. | Python, Ollama, neural TTS |
+
+Smaller things: [Vault](https://github.com/ronaksarda/Vault) (lock a folder with one password, in C), [doc_ask](https://github.com/ronaksarda/doc-ask) (ask questions about your PDFs locally), [PotatoLang](https://github.com/ronaksarda/potatoLang) (a toy language with a web playground).
 
 ## Recognition
 
